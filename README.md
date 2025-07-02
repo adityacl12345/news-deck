@@ -1,5 +1,5 @@
 ## Live Demo
-https://adityacl12345.github.io/social-login/
+https://adityacl12345.github.io/news-deck/
 
 ## Run locally
 
